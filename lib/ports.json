@@ -13021,6 +13021,18 @@
     "unlocs": ["NGLOS"],
     "code": "75367"
   },
+  "NGLKK": {
+    "name": "Lekki Deep Sea Port",
+    "city": "Lagos",
+    "province": "Lagos State",
+    "country": "Nigeria",
+    "alias": ["Lekki Port", "Lekki Seaport", "Lekki Deep Sea Terminal"],
+    "regions": [],
+    "coordinates": [3.838889, 6.433333],
+    "timezone": "Africa/Lagos",
+    "unlocs": ["NGLKK"],
+    "code": "NGLKK"
+  },
   "NGONN": {
     "name": "Onne",
     "coordinates": [7.15, 4.72],
