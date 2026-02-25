@@ -3961,6 +3961,18 @@
     "unlocs": ["CNQYN"],
     "code": "57000"
   },
+  "CNQZH": {
+    "name": "Qinzhou",
+    "city": "Qinzhou",
+    "province": "Guangxi",
+    "country": "China",
+    "alias": [],
+    "regions": [],
+    "coordinates": [108.647, 21.683],
+    "timezone": "Asia/Shanghai",
+    "unlocs": ["CNQZH"],
+    "code": "57000"
+  },
   "CNQZJ": {
     "name": "Quanzhou Port",
     "coordinates": [118.6, 24.93],
