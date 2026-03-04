@@ -9970,6 +9970,28 @@
     "unlocs": ["ITPVE"],
     "code": "47568"
   },
+  "ITPZL": {
+    "name": "Pozzallo",
+    "coordinates": [14.845, 36.721],
+    "city": "Pozzallo",
+    "country": "Italy",
+    "alias": [],
+    "regions": [],
+    "province": "Sicilia",
+    "timezone": "Europe/Rome",
+    "unlocs": ["ITPZL"]
+  },
+  "ITPZO": {
+    "name": "Ponzano Magra",
+    "coordinates": [9.916, 44.156],
+    "city": "Ponzano Magra",
+    "country": "Italy",
+    "alias": [],
+    "regions": [],
+    "province": "Liguria",
+    "timezone": "Europe/Rome",
+    "unlocs": ["ITPZO"]
+  },
   "ITRAN": {
     "name": "Ravenna",
     "city": "Ravenna",
